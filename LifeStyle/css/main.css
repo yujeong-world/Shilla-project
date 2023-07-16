@@ -291,7 +291,7 @@ header .logo-img {
     /* top: 240px; */
     color: #fff;
     left: 50%;
-    margin-left: -960px;
+    margin-left: -920px;
 }
 
 .material-icons {
@@ -302,7 +302,7 @@ header .logo-img {
     /* background: url(../imges/right_arrow_icon_72.png)no-repeat; */
     color: #fff;
     right: 50%;
-    margin-right: -970px;
+    margin-right: -930px;
 }
 
 .main-slide .swiper-prev:hover,
